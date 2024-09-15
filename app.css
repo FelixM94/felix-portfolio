@@ -1,0 +1,27 @@
+body {
+    background-color: #de10bf;
+    color: #f7f30c;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+a {
+    color: #2b0cf7;
+    font-size: 1rem;
+    text-decoration-line: none;
+}
+
+h3 {
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+
+h1 {
+    text-shadow: 8px 8px 5px hsl(158, 94%, 51%, 0.5);
+    font-size: 2rem;
+}
+
+h2 {
+    text-shadow: 8px 8px 5px hsl(258, 94%, 51%, 0.5);
+    font-size: 2rem;
+}
